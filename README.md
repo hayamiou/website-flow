@@ -3,3 +3,4 @@
 Parmesan
 Mozarella
 Gruyère
+Cantal
